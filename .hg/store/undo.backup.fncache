@@ -1,0 +1,14 @@
+data/src/main/java/io/github/soniex2/libtransfer/SizedElement.java.i
+data/settings.gradle.i
+data/build.gradle.i
+data/libtransfer.ipr.i
+data/src/main/java/io/github/soniex2/libtransfer/SizedElementFilter.java.i
+data/.hgignore.i
+data/src/main/java/io/github/soniex2/libtransfer/TransactionStatus.java.i
+data/src/main/java/io/github/soniex2/libtransfer/Transaction.java.i
+data/src/main/java/io/github/soniex2/libtransfer/SizedElementHolder.java.i
+data/gradlew.i
+data/LICENSE.i
+data/gradlew.bat.i
+data/README.md.i
+data/gradle/wrapper/gradle-wrapper.properties.i
